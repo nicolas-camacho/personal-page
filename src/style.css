@@ -1,0 +1,9 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: #c15050;
+    display: grid;
+    place-items: center;
+}
